@@ -1,0 +1,50 @@
+h3 {
+  font-family: arial;
+  font-size: 1.5rem;
+  color: darkcyan;
+  text-align: center;
+  text-shadow: 3px 2px red;
+}
+h2 {
+  font-family: arial;
+  font-size: 1.5rem;
+  color: darkcyan;
+  text-align: center;
+  text-shadow: 3px 2px red;
+}
+
+p {
+  font-family: "comic sans MS";
+  color: black;
+  font-style: bold;
+  width: 40%;
+  position: relative;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 14px 10px;
+}
+ul {
+  padding: 14px;
+}
+li {
+  list-style: none;
+  display: inline;
+}
+li a {
+  background: #222;
+  color: #d4d4d4;
+}
+li a:hover {
+  background: #4da4ff;
+  color: #fff;
+}
+.navi {
+  background: #222;
+  height: 50px;
+}
